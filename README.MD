@@ -1,1 +1,1 @@
-# Intelligent PeRsonal Assistant
+# Intelligent Personal Assistant
